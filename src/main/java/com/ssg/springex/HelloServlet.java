@@ -1,4 +1,4 @@
-package com.ssg.jdbc.springex;
+package com.ssg.springex;
 
 import java.io.*;
 import javax.servlet.http.*;
